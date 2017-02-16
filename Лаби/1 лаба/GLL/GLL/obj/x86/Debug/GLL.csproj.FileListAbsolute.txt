@@ -16,3 +16,6 @@ C:\Users\Andrew\Documents\university\KPZ\Lab 4\GLL\GLL\obj\x86\Debug\GLL.SharpGL
 C:\Users\Andrew\Documents\university\KPZ\Lab 4\GLL\GLL\obj\x86\Debug\GLL.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\university\KPZ\Lab 4\GLL\GLL\obj\x86\Debug\GLL.exe
 C:\Users\Andrew\Documents\university\KPZ\Lab 4\GLL\GLL\obj\x86\Debug\GLL.pdb
+C:\Users\Andrew\Documents\Multimedia\Лаби\1 лаба\GLL\GLL\bin\Debug\GLL.exe.config
+C:\Users\Andrew\Documents\Multimedia\Лаби\1 лаба\GLL\GLL\obj\x86\Debug\GLL.exe
+C:\Users\Andrew\Documents\Multimedia\Лаби\1 лаба\GLL\GLL\obj\x86\Debug\GLL.pdb
